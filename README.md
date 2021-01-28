@@ -1,2 +1,3 @@
-# Load_admin
-Admin pembiayaan
+# loan
+Loan Administration System
+I am a begginer. I cloned one from morph07
